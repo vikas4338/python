@@ -4,7 +4,7 @@ We could use this automation to launch instances to save cost, like starting ins
 ## Payload to test
 We could configure following parameters to run lambda function, which will help launching instance in particular region and the instance type we pass in payload
 
-`json
+```json
 {
   "region": "us-east-1",
   "image_id": "ami-0df8c184d5f6ae949",
@@ -13,5 +13,5 @@ We could configure following parameters to run lambda function, which will help 
   "numberOfInstances": 1
 }
 `
+![image](https://github.com/user-attachments/assets/1d1b57b8-829e-4997-82ce-908b76939c72)
 
-![image](https://github.com/user-attachments/assets/0cfaf699-f7a6-4fee-9149-6fc87edd5d77)
