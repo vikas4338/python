@@ -12,6 +12,6 @@ We could configure following parameters to run lambda function, which will help 
   "key_name": "my_key_pair_1",
   "numberOfInstances": 1
 }
-`
+
 ![image](https://github.com/user-attachments/assets/1d1b57b8-829e-4997-82ce-908b76939c72)
 
