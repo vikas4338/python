@@ -39,3 +39,7 @@ elif player == "paper":
         print("computer " + computer)
         print("player " + player)
         print("You Win!!")
+   if computer == "rock":
+       print("computer " + computer)
+       print("player " + player)
+       print("You Win!!")
