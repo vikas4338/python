@@ -15,10 +15,6 @@ print('''
 ''')
 
 word_list = [
-    "dog", "cat", "cow", "pig"
-]
-
-animal_words = [
     "dog", "cat", "horse", "cow", "pig", "lion", "tiger", "elephant", "rabbit", "bear",
     "fox", "wolf", "deer", "goat", "sheep", "duck", "fish", "frog", "turtle", "snake",
     "bird", "owl", "parrot", "squirrel", "monkey", "giraffe", "zebra", "kangaroo",
